@@ -16,7 +16,7 @@ def main():
     fp.close()
 
     fp = open(sys.argv[1] + "\\" + "_" + filename , "wb")
-    fp.write(data[1:-1])
+    fp.write(data[int(sys.argv[2]):-1])
     fp.close()
     print(count,filename)
     

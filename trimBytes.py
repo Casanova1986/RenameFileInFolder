@@ -1,6 +1,13 @@
 # Pythono3 code to rename multiple 
 # files in a directory or folder
   
+
+# trimBytes all file in folder
+
+# x = first bytes want to trim
+# python trimBytes.py '#directory' x
+
+
 # importing os module
 import os
 import sys

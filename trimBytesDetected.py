@@ -21,19 +21,21 @@ def main():
     fp = open(sys.argv[1] + "\\" + filename, "rb")
     data = fp.read(100)
     idx = data.index(bytes('U','ascii'))
+    wData = fp.read()
+
     fp.close()
     print(count,filename,data,idx)
-
+    fp = open(sys.argv[1] + "\\" + "_" + filename , "wb")
+    fp.write(wData[idx:-1])
+    fp.close()
+    print(count,filename)
 
   # for count, filename in enumerate(os.listdir(sys.argv[1])):
   #   fp = open(sys.argv[1] + "\\" + filename, "rb")
   #   data = fp.read()
   #   fp.close()
 
-  #   fp = open(sys.argv[1] + "\\" + "_" + filename , "wb")
-  #   fp.write(data[int(sys.argv[2]):-1])
-  #   fp.close()
-  #   print(count,filename)
+    
     
        
   

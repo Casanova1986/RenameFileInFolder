@@ -21,12 +21,16 @@ def main():
     fp = open(sys.argv[1] + "\\" + filename, "rb")
     data = fp.read(100)
     idx = data.index(bytes('U','ascii'))
-    wData = fp.read()
-
     fp.close()
+
+
+    fTrim = open(sys.argv[1] + "\\" + filename, "rb")
+    dataTrim = fTrim.read()
+    fTrim.close()
+
     print(count,filename,data,idx)
-    fp = open(sys.argv[1] + "\\" + "_" + filename , "wb")
-    fp.write(wData[idx:-1])
+    fp = open(sys.argv[1] + "\\" + filename , "wb")
+    fp.write(dataTrim[idx:-1])
     fp.close()
     print(count,filename)
 

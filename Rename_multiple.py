@@ -11,14 +11,21 @@ def main():
   print(sys.argv[1])
 
 
+  # for count, subname in enumerate(os.listdir(sys.argv[1])):
+  #   print(count,subname)
+  #   if("atlas" in subname):
+  #       os.rename(sys.argv[1] + "\\" + subname, sys.argv[1]  + "\\" + subname.split(".")[0] + ".atlas.txt")
+  #   elif(".skel" in subname):
+  #       os.rename(sys.argv[1] + "\\" + subname, sys.argv[1]  + "\\" + subname.split(".")[0] + ".skel.bytes")
+  
   for count, subname in enumerate(os.listdir(sys.argv[1])):
     print(count,subname)
-    if("atlas" in subname):
-        os.rename(sys.argv[1] + "\\" + subname, sys.argv[1]  + "\\" + subname.split(".")[0] + ".atlas.txt")
-    elif(".skel" in subname):
-        os.rename(sys.argv[1] + "\\" + subname, sys.argv[1]  + "\\" + subname.split(".")[0] + ".skel.bytes")
-  
-           
+    if("prefab" in subname):
+      try:
+        os.rename(sys.argv[1] + "\\" + subname, sys.argv[1]  + "\\" + subname.split(".")[0] + ".json")
+      except:
+        print("ERR1:")
+   
   
 # Driver Code
 if __name__ == '__main__':

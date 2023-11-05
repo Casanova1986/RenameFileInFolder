@@ -22,7 +22,7 @@ def main():
     print(count,subname)
     if("prefab" in subname):
       try:
-        os.rename(sys.argv[1] + "\\" + subname, sys.argv[1]  + "\\" + subname.split(".")[0] + ".json")
+        os.rename(sys.argv[1] + "\\" + subname, sys.argv[1]  + "\\" + subname.split(".")[0].split(" ")[0] + ".json")
       except:
         print("ERR1:")
    

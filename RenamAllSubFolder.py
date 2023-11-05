@@ -14,14 +14,14 @@ def main():
     subFolder = sys.argv[1] + "\\" + filename
     for count, subname in enumerate(os.listdir(subFolder)):
         print(count,subname)
-        if("atlas.prefab" in subname):
+        if("atlas" in subname):
             os.rename(subFolder + "\\" + subname, subFolder + "\\" + subname.split(".")[0] + ".atlas.txt")
-        elif(".prefab" in subname):
-            os.rename(subFolder + "\\" + subname, subFolder + "\\" + subname.split(".")[0] + ".json")
-        elif(".png" in subname):
-            print(subFolder + "\\" + subname, subFolder + "\\" + subname.split(".")[0])
-        else:
-            os.remove(subFolder + "\\" + subname)
+        # elif(".prefab" in subname):
+        #     os.rename(subFolder + "\\" + subname, subFolder + "\\" + subname.split(".")[0] + ".json")
+        # elif(".png" in subname):
+        #     print(subFolder + "\\" + subname, subFolder + "\\" + subname.split(".")[0])
+        # else:
+        #     os.remove(subFolder + "\\" + subname)
 
  
            

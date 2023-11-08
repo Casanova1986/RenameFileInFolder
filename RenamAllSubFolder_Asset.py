@@ -18,8 +18,8 @@ def main():
             print(count,subname)
             if("atlas.asset" in subname):
                 os.rename(subFolder2 + "\\" + subname, subFolder2 + "\\" + subname.split(".")[0] + ".atlas.txt")
-            elif(".skel" in subname):
-                os.rename(subFolder2 + "\\" + subname, subFolder2 + "\\" + filename.split(".")[0] + ".skel")
+            elif(".skel.asset" in subname):
+                os.rename(subFolder2 + "\\" + subname, subFolder2 + "\\" + filename.split(".")[0] + ".skel.bytes")
       
 
  

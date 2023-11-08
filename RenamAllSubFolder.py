@@ -16,8 +16,8 @@ def main():
         print(count,subname)
         if("atlas" in subname):
             os.rename(subFolder + "\\" + subname, subFolder + "\\" + subname.split(".")[0] + ".atlas.txt")
-        # elif(".prefab" in subname):
-        #     os.rename(subFolder + "\\" + subname, subFolder + "\\" + subname.split(".")[0] + ".json")
+        elif(".skel.asset" in subname):
+            os.rename(subFolder + "\\" + subname, subFolder + "\\" + subname.split(".")[0] + ".skel.bytes")
         # elif(".png" in subname):
         #     print(subFolder + "\\" + subname, subFolder + "\\" + subname.split(".")[0])
         # else:

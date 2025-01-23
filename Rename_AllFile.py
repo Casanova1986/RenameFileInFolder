@@ -13,6 +13,7 @@ def main():
 
   for count, subname in enumerate(os.listdir(sys.argv[1])):
     print(count,subname)
+    #  os.rename(sys.argv[1] + "\\" + subname, sys.argv[1]  + "\\" + "Card_" + str(count) + ".png")
     os.rename(sys.argv[1] + "\\" + subname, sys.argv[1]  + "\\" + "Card_" + str(count) + ".png")
     
   

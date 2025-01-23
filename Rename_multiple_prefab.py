@@ -13,12 +13,22 @@ def main():
 
   for count, subname in enumerate(os.listdir(sys.argv[1])):
     print(count,subname)
-    if("atlas.prefab" in subname):
+    
+    if(".atlas" in subname):
+      try:
         os.rename(sys.argv[1] + "\\" + subname, sys.argv[1]  + "\\" + subname.split(".")[0] + ".atlas.txt")
+      except:
+        print("ERR1:")
+   
+        
     # elif(".json.prefab" in subname):
     #     os.rename(sys.argv[1] + "\\" + subname, sys.argv[1]  + "\\" + subname.split(".")[0] + ".json")
-    elif(".skel.prefab" in subname):
+    elif(".skel" in subname):
+      try:
         os.rename(sys.argv[1] + "\\" + subname, sys.argv[1]  + "\\" + subname.split(".")[0] + ".skel.bytes")
+      except:
+        print("ERR1:")
+        
            
   
 # Driver Code

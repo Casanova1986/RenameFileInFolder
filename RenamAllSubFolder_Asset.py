@@ -2,6 +2,7 @@
 # files in a directory or folder
   
 # importing os module
+# python .\RenamAllSubFolder_Asset.py E:\Resource\AeonEcho-Assets-Extract\Assets\autobuildpet\assetbundles\herobg
 import os
 import sys
 
@@ -16,10 +17,10 @@ def main():
         subFolder2 = subFolder + "\\" + subname1
         for count, subname in enumerate(os.listdir(subFolder2)):
             print(count,subname)
-            if("atlas.asset" in subname):
+            if("atlas.bytes" in subname):
                 os.rename(subFolder2 + "\\" + subname, subFolder2 + "\\" + subname.split(".")[0] + ".atlas.txt")
-            elif(".skel.asset" in subname):
-                os.rename(subFolder2 + "\\" + subname, subFolder2 + "\\" + filename.split(".")[0] + ".skel.bytes")
+            # elif(".skel.asset" in subname):
+            #     os.rename(subFolder2 + "\\" + subname, subFolder2 + "\\" + filename.split(".")[0] + ".skel.bytes")
       
 
  

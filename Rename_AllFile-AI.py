@@ -3,15 +3,15 @@ import os
 def rename_files(directory):
     for root, _, files in os.walk(directory):
         for file in files:
-            if ".atlas.prefab" in file:
+            if ".atlas" in file:
                 old_path = os.path.join(root, file)
-                new_file = file.replace(".atlas.prefab", ".atlas.txt")
+                new_file = file.replace(".atlas", ".atlas.txt")
                 new_path = os.path.join(root, new_file)
                 os.rename(old_path, new_path)
                 print(f'Renamed: {old_path} -> {new_path}')
-            if ".skel.prefab" in file:
+            if ".skel" in file:
                 old_path_ske = os.path.join(root, file)
-                new_file_ske = file.replace(".skel.prefab", ".skel.bytes")
+                new_file_ske = file.replace(".skel", ".skel.bytes")
                 new_path_ske = os.path.join(root, new_file_ske)
                 os.rename(old_path_ske, new_path_ske)
                 print(f'Renamed: {old_path_ske} -> {new_path_ske}')

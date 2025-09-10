@@ -20,7 +20,7 @@ def main():
   for count, filename in enumerate(os.listdir(sys.argv[1])):
     try:
       fp = open(sys.argv[1] + "\\" + filename, "rb")
-      data = fp.read(100)
+      data = fp.read(200)
       idx = data.rindex(bytes('Unity','ascii'))
       fp.close()
 
@@ -30,9 +30,9 @@ def main():
         fTrim.close()
 
         print(count,filename,data,idx)
-        fp = open(sys.argv[1] + "\\" + filename , "wb")
-        fp.write(dataTrim[idx:-1])
-        fp.close()
+        fw = open(sys.argv[1] + "\\" + filename , "wb")
+        fw.write(dataTrim[idx:-1])
+        fw.close()
     except:
       print("ERR3:Missing")
     print(count,filename)

@@ -16,7 +16,7 @@ def main():
 
   for count, subname in enumerate(os.listdir(sys.argv[1])):
     print(count,subname)
-    if("atlas" in subname):
+    if("bin" in subname):
         os.rename(sys.argv[1] + "\\" + subname, sys.argv[1]  + "\\" + subname.split(".")[0] + ".atlas.txt")
     elif(".skel" in subname):
         os.rename(sys.argv[1] + "\\" + subname, sys.argv[1]  + "\\" + subname.split(".")[0] + ".skel.bytes")

@@ -1,0 +1,2342 @@
+[
+  {
+    "id": 1,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Problems will [BLANK] if we don't act.",
+    "options": [
+      "ariseed",
+      "arisen",
+      "arose",
+      "arise"
+    ],
+    "answer_index": 3,
+    "hint": "Sau 'will' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 2,
+    "topic": "fill_in_the_blank_v2",
+    "question": "A new issue [BLANK] during the meeting.",
+    "options": [
+      "arose",
+      "arise",
+      "arisen",
+      "ariseed"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 3,
+    "topic": "fill_in_the_blank_v3",
+    "question": "No complications have [BLANK] so far.",
+    "options": [
+      "arisen",
+      "arise",
+      "ariseed",
+      "arose"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là thì hiện tại hoàn thành (have + V3)."
+  },
+  {
+    "id": 4,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Please [BLANK] me at 7 AM.",
+    "options": [
+      "awakeed",
+      "awoke",
+      "awake",
+      "awoken"
+    ],
+    "answer_index": 2,
+    "hint": "Câu mệnh lệnh/yêu cầu dùng V1."
+  },
+  {
+    "id": 5,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] in the middle of the night.",
+    "options": [
+      "awoken",
+      "awake",
+      "awakeed",
+      "awoke"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 6,
+    "topic": "fill_in_the_blank_v3",
+    "question": "I was [BLANK] by a loud noise.",
+    "options": [
+      "awakeed",
+      "awoke",
+      "awoken",
+      "awake"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là câu bị động (was + V3)."
+  },
+  {
+    "id": 7,
+    "topic": "fill_in_the_blank_v1",
+    "question": "You must [BLANK] quiet.",
+    "options": [
+      "was",
+      "been",
+      "be",
+      "were"
+    ],
+    "answer_index": 2,
+    "hint": "Sau 'must' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 8,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] happy yesterday.",
+    "options": [
+      "was",
+      "were",
+      "be",
+      "been"
+    ],
+    "answer_index": 1,
+    "hint": "Chủ ngữ 'She' + 'yesterday' (quá khứ)."
+  },
+  {
+    "id": 9,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He has [BLANK] to Paris.",
+    "options": [
+      "was",
+      "be",
+      "been",
+      "were"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 10,
+    "topic": "fill_in_the_blank_v1",
+    "question": "I cannot [BLANK] this pain.",
+    "options": [
+      "born",
+      "bore",
+      "borne",
+      "bear"
+    ],
+    "answer_index": 3,
+    "hint": "Sau 'cannot' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 11,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] three children.",
+    "options": [
+      "borne",
+      "born",
+      "bear",
+      "bore"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 12,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He has [BLANK] this burden for years.",
+    "options": [
+      "bore",
+      "born",
+      "borne",
+      "bear"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 13,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Can you [BLANK] him in a race?",
+    "options": [
+      "beats",
+      "beated",
+      "beaten",
+      "beat"
+    ],
+    "answer_index": 3,
+    "hint": "Sau 'Can' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 14,
+    "topic": "fill_in_the_blank_v2",
+    "question": "Our team [BLANK] them 3-0.",
+    "options": [
+      "beaten",
+      "beat",
+      "beated",
+      "beats"
+    ],
+    "answer_index": 1,
+    "hint": "V1, V2 của 'beat' viết giống nhau."
+  },
+  {
+    "id": 15,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He has never been [BLANK].",
+    "options": [
+      "beated",
+      "beats",
+      "beat",
+      "beaten"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là câu bị động (been + V3)."
+  },
+  {
+    "id": 16,
+    "topic": "fill_in_the_blank_v1",
+    "question": "He wants to [BLANK] a doctor.",
+    "options": [
+      "becomeed",
+      "became",
+      "becomes",
+      "become"
+    ],
+    "answer_index": 3,
+    "hint": "Sau 'wants to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 17,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] famous overnight.",
+    "options": [
+      "becomes",
+      "becomeed",
+      "become",
+      "became"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 18,
+    "topic": "fill_in_the_blank_v3",
+    "question": "They have [BLANK] good friends.",
+    "options": [
+      "becomeed",
+      "becomes",
+      "become",
+      "became"
+    ],
+    "answer_index": 2,
+    "hint": "V1 và V3 của 'become' viết giống nhau (have + V3)."
+  },
+  {
+    "id": 19,
+    "topic": "fill_in_the_blank_v1",
+    "question": "The show will [BLANK] at 8.",
+    "options": [
+      "begun",
+      "begined",
+      "began",
+      "begin"
+    ],
+    "answer_index": 3,
+    "hint": "Sau 'will' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 20,
+    "topic": "fill_in_the_blank_v2",
+    "question": "It [BLANK] to rain.",
+    "options": [
+      "begun",
+      "began",
+      "begin",
+      "begined"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 21,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The race has already [BLANK].",
+    "options": [
+      "began",
+      "begun",
+      "begin",
+      "begined"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 22,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Don't [BLANK] the rules.",
+    "options": [
+      "bended",
+      "bend",
+      "bends",
+      "bent"
+    ],
+    "answer_index": 1,
+    "hint": "Sau 'Don't' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 23,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] down to tie his shoe.",
+    "options": [
+      "bent",
+      "bend",
+      "bends",
+      "bended"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 24,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The spoon was [BLANK].",
+    "options": [
+      "bends",
+      "bend",
+      "bent",
+      "bended"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là câu bị động (was + V3)."
+  },
+  {
+    "id": 25,
+    "topic": "fill_in_the_blank_v1",
+    "question": "I [BLANK] you can't do it.",
+    "options": [
+      "bets",
+      "bet",
+      "beting",
+      "beted"
+    ],
+    "answer_index": 1,
+    "hint": "V1, V2, V3 của 'bet' viết giống nhau."
+  },
+  {
+    "id": 26,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] all his money on that horse.",
+    "options": [
+      "bet",
+      "bets",
+      "beted",
+      "beting"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 27,
+    "topic": "fill_in_the_blank_v3",
+    "question": "I have [BLANK] on the wrong team.",
+    "options": [
+      "beted",
+      "bets",
+      "bet",
+      "beting"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là thì hiện tại hoàn thành (have + V3)."
+  },
+  {
+    "id": 28,
+    "topic": "fill_in_the_blank_v1",
+    "question": "I will [BLANK] $100 for the painting.",
+    "options": [
+      "bade",
+      "bid",
+      "bidden",
+      "bided"
+    ],
+    "answer_index": 1,
+    "hint": "Sau 'will' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 29,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] $50 at the auction.",
+    "options": [
+      "bid",
+      "bided",
+      "bidden",
+      "bade"
+    ],
+    "answer_index": 0,
+    "hint": "V1 và V2 của 'bid' có thể giống nhau."
+  },
+  {
+    "id": 30,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He was [BLANK] to leave.",
+    "options": [
+      "bid",
+      "bided",
+      "bidden",
+      "bade"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là câu bị động (was + V3)."
+  },
+  {
+    "id": 31,
+    "topic": "fill_in_the_blank_v1",
+    "question": "They will [BLANK] his hands.",
+    "options": [
+      "bound",
+      "binds",
+      "bind",
+      "binded"
+    ],
+    "answer_index": 2,
+    "hint": "Sau 'will' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 32,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] the papers together.",
+    "options": [
+      "binded",
+      "bound",
+      "binds",
+      "bind"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 33,
+    "topic": "fill_in_the_blank_v3",
+    "question": "She was [BLANK] by the contract.",
+    "options": [
+      "binds",
+      "bind",
+      "bound",
+      "binded"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là câu bị động (was + V3)."
+  },
+  {
+    "id": 34,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Does your dog [BLANK]?",
+    "options": [
+      "biteed",
+      "bite",
+      "bitten",
+      "bit"
+    ],
+    "answer_index": 1,
+    "hint": "Sau 'Does' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 35,
+    "topic": "fill_in_the_blank_v2",
+    "question": "The mosquito [BLANK] me.",
+    "options": [
+      "bit",
+      "bite",
+      "bitten",
+      "biteed"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 36,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He was [BLANK] by a snake.",
+    "options": [
+      "biteed",
+      "bitten",
+      "bit",
+      "bite"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là câu bị động (was + V3)."
+  },
+  {
+    "id": 37,
+    "topic": "fill_in_the_blank_v1",
+    "question": "The cut will [BLANK] for a minute.",
+    "options": [
+      "bleed",
+      "bleeds",
+      "bleeded",
+      "bled"
+    ],
+    "answer_index": 0,
+    "hint": "Sau 'will' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 38,
+    "topic": "fill_in_the_blank_v2",
+    "question": "His nose [BLANK] after the fall.",
+    "options": [
+      "bleed",
+      "bled",
+      "bleeded",
+      "bleeds"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 39,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The patient has [BLANK] a lot.",
+    "options": [
+      "bleeds",
+      "bleeded",
+      "bled",
+      "bleed"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 40,
+    "topic": "fill_in_the_blank_v1",
+    "question": "The wind will [BLANK] hard today.",
+    "options": [
+      "blew",
+      "blown",
+      "blow",
+      "blowed"
+    ],
+    "answer_index": 2,
+    "hint": "Sau 'will' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 41,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] out the candles.",
+    "options": [
+      "blown",
+      "blew",
+      "blow",
+      "blowed"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 42,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The roof was [BLANK] off in the storm.",
+    "options": [
+      "blew",
+      "blown",
+      "blow",
+      "blowed"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là câu bị động (was + V3)."
+  },
+  {
+    "id": 43,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Be careful not to [BLANK] the vase.",
+    "options": [
+      "broke",
+      "broken",
+      "break",
+      "breaked"
+    ],
+    "answer_index": 2,
+    "hint": "Sau 'not to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 44,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] her arm.",
+    "options": [
+      "break",
+      "breaked",
+      "broke",
+      "broken"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 45,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The window is [BLANK].",
+    "options": [
+      "broke",
+      "breaked",
+      "break",
+      "broken"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là câu bị động / V3 làm tính từ (is + V3)."
+  },
+  {
+    "id": 46,
+    "topic": "fill_in_the_blank_v1",
+    "question": "They [BLANK] horses on their farm.",
+    "options": [
+      "bred",
+      "breeds",
+      "breed",
+      "breeded"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là thói quen (hiện tại đơn, V1)."
+  },
+  {
+    "id": 47,
+    "topic": "fill_in_the_blank_v2",
+    "question": "Đây là thói quen (hiện tại đơn).",
+    "options": [
+      "breed",
+      "breeds",
+      "breeded",
+      "bred"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ (V2)."
+  },
+  {
+    "id": 48,
+    "topic": "fill_in_the_blank_v3",
+    "question": "This dog was [BLANK] for racing.",
+    "options": [
+      "bred",
+      "breed",
+      "breeds",
+      "breeded"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là câu bị động (was + V3)."
+  },
+  {
+    "id": 49,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Please [BLANK] me a glass of water.",
+    "options": [
+      "bringed",
+      "bring",
+      "brought",
+      "brings"
+    ],
+    "answer_index": 1,
+    "hint": "Câu mệnh lệnh/yêu cầu dùng V1."
+  },
+  {
+    "id": 50,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] a cake to the party.",
+    "options": [
+      "brings",
+      "bringed",
+      "bring",
+      "brought"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 51,
+    "topic": "fill_in_the_blank_v3",
+    "question": "Have you [BLANK] your homework?",
+    "options": [
+      "bringed",
+      "brought",
+      "brings",
+      "bring"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là thì hiện tại hoàn thành (Have + V3)."
+  },
+  {
+    "id": 52,
+    "topic": "fill_in_the_blank_v1",
+    "question": "They will [BLANK] the news at 6.",
+    "options": [
+      "broadcasted",
+      "broadcasting",
+      "broadcasts",
+      "broadcast"
+    ],
+    "answer_index": 3,
+    "hint": "V1, V2, V3 của 'broadcast' viết giống nhau."
+  },
+  {
+    "id": 53,
+    "topic": "fill_in_the_blank_v2",
+    "question": "The station [BLANK] the match live.",
+    "options": [
+      "broadcasts",
+      "broadcasting",
+      "broadcasted",
+      "broadcast"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 54,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The event was [BLANK] worldwide.",
+    "options": [
+      "broadcasted",
+      "broadcast",
+      "broadcasting",
+      "broadcasts"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là câu bị động (was + V3)."
+  },
+  {
+    "id": 55,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Let's [BLANK] a sandcastle.",
+    "options": [
+      "built",
+      "builded",
+      "build",
+      "builds"
+    ],
+    "answer_index": 2,
+    "hint": "Sau 'Let's' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 56,
+    "topic": "fill_in_the_blank_v2",
+    "question": "The Romans [BLANK] this aqueduct.",
+    "options": [
+      "builded",
+      "built",
+      "build",
+      "builds"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 57,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The house was [BLANK] in 1950.",
+    "options": [
+      "builds",
+      "built",
+      "builded",
+      "build"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là câu bị động (was + V3)."
+  },
+  {
+    "id": 58,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Don't [BLANK] the toast.",
+    "options": [
+      "burns",
+      "burn",
+      "burned",
+      "burnt"
+    ],
+    "answer_index": 1,
+    "hint": "Sau 'Don't' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 59,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] the old letters.",
+    "options": [
+      "burn",
+      "burned",
+      "burns",
+      "burnt"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 60,
+    "topic": "fill_in_the_blank_v3",
+    "question": "She has [BLANK] her hand.",
+    "options": [
+      "burns",
+      "burned",
+      "burnt",
+      "burn"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 61,
+    "topic": "fill_in_the_blank_v1",
+    "question": "The balloon is going to [BLANK].",
+    "options": [
+      "bursts",
+      "burst",
+      "bursted",
+      "bursting"
+    ],
+    "answer_index": 1,
+    "hint": "V1, V2, V3 của 'burst' viết giống nhau."
+  },
+  {
+    "id": 62,
+    "topic": "fill_in_the_blank_v2",
+    "question": "The pipe [BLANK] suddenly.",
+    "options": [
+      "bursting",
+      "bursted",
+      "burst",
+      "bursts"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 63,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He has [BLANK] into the room.",
+    "options": [
+      "bursted",
+      "burst",
+      "bursts",
+      "bursting"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 64,
+    "topic": "fill_in_the_blank_v1",
+    "question": "I need to [BLANK] some milk.",
+    "options": [
+      "buys",
+      "bought",
+      "buy",
+      "buyed"
+    ],
+    "answer_index": 2,
+    "hint": "Sau 'need to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 65,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] a new car.",
+    "options": [
+      "buyed",
+      "bought",
+      "buys",
+      "buy"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 66,
+    "topic": "fill_in_the_blank_v3",
+    "question": "She has [BLANK] a gift for him.",
+    "options": [
+      "buys",
+      "bought",
+      "buy",
+      "buyed"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 67,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Let's [BLANK] the fishing line.",
+    "options": [
+      "casting",
+      "casted",
+      "casts",
+      "cast"
+    ],
+    "answer_index": 3,
+    "hint": "V1, V2, V3 của 'cast' viết giống nhau."
+  },
+  {
+    "id": 68,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] a shadow on the wall.",
+    "options": [
+      "casts",
+      "casted",
+      "casting",
+      "cast"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 69,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The spell has been [BLANK].",
+    "options": [
+      "casting",
+      "casted",
+      "cast",
+      "casts"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là câu bị động (been + V3)."
+  },
+  {
+    "id": 70,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Try to [BLANK] the ball.",
+    "options": [
+      "catched",
+      "catchs",
+      "caught",
+      "catch"
+    ],
+    "answer_index": 3,
+    "hint": "Sau 'Try to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 71,
+    "topic": "fill_in_the_blank_v2",
+    "question": "The police [BLANK] the thief.",
+    "options": [
+      "catched",
+      "catchs",
+      "catch",
+      "caught"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 72,
+    "topic": "fill_in_the_blank_v3",
+    "question": "I have [BLANK] a cold.",
+    "options": [
+      "catch",
+      "catched",
+      "caught",
+      "catchs"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là thì hiện tại hoàn thành (have + V3)."
+  },
+  {
+    "id": 73,
+    "topic": "fill_in_the_blank_v1",
+    "question": "You must [BLANK] one.",
+    "options": [
+      "chosen",
+      "chose",
+      "choose",
+      "chooseed"
+    ],
+    "answer_index": 2,
+    "hint": "Sau 'must' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 74,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] the blue dress.",
+    "options": [
+      "chosen",
+      "chose",
+      "chooseed",
+      "choose"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 75,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He was [BLANK] as the leader.",
+    "options": [
+      "chose",
+      "chooseed",
+      "choose",
+      "chosen"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là câu bị động (was + V3)."
+  },
+  {
+    "id": 76,
+    "topic": "fill_in_the_blank_v1",
+    "question": "The baby likes to [BLANK] to its mother.",
+    "options": [
+      "cling",
+      "clings",
+      "clinged",
+      "clung"
+    ],
+    "answer_index": 0,
+    "hint": "Sau 'likes to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 77,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] to the rope.",
+    "options": [
+      "clung",
+      "clinged",
+      "cling",
+      "clings"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 78,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The mud has [BLANK] to my shoes.",
+    "options": [
+      "clung",
+      "cling",
+      "clings",
+      "clinged"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 79,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Can you [BLANK] to the party?",
+    "options": [
+      "comeed",
+      "come",
+      "came",
+      "comes"
+    ],
+    "answer_index": 1,
+    "hint": "Sau 'Can' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 80,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] home late.",
+    "options": [
+      "come",
+      "comes",
+      "comeed",
+      "came"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 81,
+    "topic": "fill_in_the_blank_v3",
+    "question": "Has the mail [BLANK] yet?",
+    "options": [
+      "came",
+      "comeed",
+      "comes",
+      "come"
+    ],
+    "answer_index": 3,
+    "hint": "V1 và V3 của 'come' viết giống nhau (Has + V3)."
+  },
+  {
+    "id": 82,
+    "topic": "fill_in_the_blank_v1",
+    "question": "How much does this [BLANK]?",
+    "options": [
+      "costing",
+      "costed",
+      "costs",
+      "cost"
+    ],
+    "answer_index": 3,
+    "hint": "V1, V2, V3 của 'cost' viết giống nhau."
+  },
+  {
+    "id": 83,
+    "topic": "fill_in_the_blank_v2",
+    "question": "It [BLANK] me $50.",
+    "options": [
+      "cost",
+      "costing",
+      "costed",
+      "costs"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 84,
+    "topic": "fill_in_the_blank_v3",
+    "question": "This mistake has [BLANK] us dearly.",
+    "options": [
+      "costs",
+      "costing",
+      "costed",
+      "cost"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 85,
+    "topic": "fill_in_the_blank_v1",
+    "question": "He tried to [BLANK] past the guard.",
+    "options": [
+      "creeps",
+      "crept",
+      "creeped",
+      "creep"
+    ],
+    "answer_index": 3,
+    "hint": "Sau 'tried to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 86,
+    "topic": "fill_in_the_blank_v2",
+    "question": "The cat [BLANK] silently.",
+    "options": [
+      "creep",
+      "creeped",
+      "creeps",
+      "crept"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 87,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The feeling has [BLANK] up on me.",
+    "options": [
+      "creep",
+      "creeps",
+      "creeped",
+      "crept"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 88,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Be careful when you [BLANK] the onion.",
+    "options": [
+      "cuting",
+      "cuts",
+      "cut",
+      "cuted"
+    ],
+    "answer_index": 2,
+    "hint": "V1, V2, V3 của 'cut' viết giống nhau."
+  },
+  {
+    "id": 89,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] her finger.",
+    "options": [
+      "cuting",
+      "cuts",
+      "cuted",
+      "cut"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 90,
+    "topic": "fill_in_the_blank_v3",
+    "question": "I have [BLANK] the price.",
+    "options": [
+      "cuting",
+      "cuted",
+      "cut",
+      "cuts"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là thì hiện tại hoàn thành (have + V3)."
+  },
+  {
+    "id": 91,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Who will [BLANK] the cards?",
+    "options": [
+      "dealt",
+      "deals",
+      "dealed",
+      "deal"
+    ],
+    "answer_index": 3,
+    "hint": "Sau 'will' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 92,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] with the problem.",
+    "options": [
+      "dealed",
+      "dealt",
+      "deals",
+      "deal"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 93,
+    "topic": "fill_in_the_blank_v3",
+    "question": "We have [BLANK] with this company before.",
+    "options": [
+      "deal",
+      "dealed",
+      "dealt",
+      "deals"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là thì hiện tại hoàn thành (have + V3)."
+  },
+  {
+    "id": 94,
+    "topic": "fill_in_the_blank_v1",
+    "question": "The dog loves to [BLANK] holes.",
+    "options": [
+      "diged",
+      "digs",
+      "dig",
+      "dug"
+    ],
+    "answer_index": 2,
+    "hint": "Sau 'loves to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 95,
+    "topic": "fill_in_the_blank_v2",
+    "question": "They [BLANK] a well.",
+    "options": [
+      "digs",
+      "diged",
+      "dug",
+      "dig"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 96,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He has [BLANK] his own grave.",
+    "options": [
+      "dug",
+      "diged",
+      "dig",
+      "digs"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 97,
+    "topic": "fill_in_the_blank_v1",
+    "question": "You must [BLANK] your homework.",
+    "options": [
+      "did",
+      "doed",
+      "done",
+      "do"
+    ],
+    "answer_index": 3,
+    "hint": "Sau 'must' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 98,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] a great job.",
+    "options": [
+      "did",
+      "done",
+      "do",
+      "doed"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 99,
+    "topic": "fill_in_the_blank_v3",
+    "question": "What have you [BLANK]?",
+    "options": [
+      "done",
+      "did",
+      "do",
+      "doed"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là thì hiện tại hoàn thành (Have + V3)."
+  },
+  {
+    "id": 100,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Can you [BLANK] a house?",
+    "options": [
+      "draw",
+      "drawed",
+      "drew",
+      "drawn"
+    ],
+    "answer_index": 0,
+    "hint": "Sau 'Can' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 101,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] a beautiful picture.",
+    "options": [
+      "drew",
+      "drawn",
+      "draw",
+      "drawed"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 102,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The curtains were [BLANK].",
+    "options": [
+      "drawed",
+      "drew",
+      "drawn",
+      "draw"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là câu bị động (were + V3)."
+  },
+  {
+    "id": 103,
+    "topic": "fill_in_the_blank_v1",
+    "question": "I sometimes [BLANK] of flying.",
+    "options": [
+      "dreamt",
+      "dream",
+      "dreamed",
+      "dreams"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là thói quen (hiện tại đơn, V1)."
+  },
+  {
+    "id": 104,
+    "topic": "fill_in_the_blank_v2",
+    "question": "I [BLANK] I was famous.",
+    "options": [
+      "dream",
+      "dreams",
+      "dreamed",
+      "dreamt"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 105,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He had [BLANK] of this moment.",
+    "options": [
+      "dreamt",
+      "dreamed",
+      "dream",
+      "dreams"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là thì quá khứ hoàn thành (had + V3)."
+  },
+  {
+    "id": 106,
+    "topic": "fill_in_the_blank_v1",
+    "question": "What do you want to [BLANK]?",
+    "options": [
+      "drinked",
+      "drink",
+      "drank",
+      "drunk"
+    ],
+    "answer_index": 1,
+    "hint": "Sau 'want to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 107,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] all the milk.",
+    "options": [
+      "drunk",
+      "drank",
+      "drink",
+      "drinked"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 108,
+    "topic": "fill_in_the_blank_v3",
+    "question": "She has [BLANK] too much coffee.",
+    "options": [
+      "drinked",
+      "drink",
+      "drank",
+      "drunk"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 109,
+    "topic": "fill_in_the_blank_v1",
+    "question": "I am learning to [BLANK] a car.",
+    "options": [
+      "driven",
+      "drive",
+      "drove",
+      "driveed"
+    ],
+    "answer_index": 1,
+    "hint": "Sau 'learning to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 110,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] me to the airport.",
+    "options": [
+      "drive",
+      "driven",
+      "driveed",
+      "drove"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 111,
+    "topic": "fill_in_the_blank_v3",
+    "question": "Have you ever [BLANK] a truck?",
+    "options": [
+      "driveed",
+      "drove",
+      "drive",
+      "driven"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là thì hiện tại hoàn thành (Have + V3)."
+  },
+  {
+    "id": 112,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Do not [BLANK] on the past.",
+    "options": [
+      "dwelled",
+      "dwells",
+      "dwelt",
+      "dwell"
+    ],
+    "answer_index": 3,
+    "hint": "Sau 'Do not' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 113,
+    "topic": "fill_in_the_blank_v2",
+    "question": "They [BLANK] in a small cabin.",
+    "options": [
+      "dwelled",
+      "dwell",
+      "dwells",
+      "dwelt"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 114,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He has [BLANK] on this topic for hours.",
+    "options": [
+      "dwelt",
+      "dwell",
+      "dwells",
+      "dwelled"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 115,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Let's [BLANK] lunch.",
+    "options": [
+      "eat",
+      "eaten",
+      "ate",
+      "eated"
+    ],
+    "answer_index": 0,
+    "hint": "Sau 'Let's' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 116,
+    "topic": "fill_in_the_blank_v2",
+    "question": "I [BLANK] a sandwich.",
+    "options": [
+      "ate",
+      "eaten",
+      "eated",
+      "eat"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 117,
+    "topic": "fill_in_the_blank_v3",
+    "question": "Have you [BLANK] yet?",
+    "options": [
+      "eated",
+      "eat",
+      "ate",
+      "eaten"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là thì hiện tại hoàn thành (Have + V3)."
+  },
+  {
+    "id": 118,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Be careful not to [BLANK].",
+    "options": [
+      "falled",
+      "fall",
+      "fell",
+      "fallen"
+    ],
+    "answer_index": 1,
+    "hint": "Sau 'not to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 119,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] off the ladder.",
+    "options": [
+      "fell",
+      "fallen",
+      "fall",
+      "falled"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 120,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The leaves have [BLANK].",
+    "options": [
+      "falled",
+      "fell",
+      "fallen",
+      "fall"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là thì hiện tại hoàn thành (have + V3)."
+  },
+  {
+    "id": 121,
+    "topic": "fill_in_the_blank_v1",
+    "question": "It's time to [BLANK] the dog.",
+    "options": [
+      "feeded",
+      "fed",
+      "feed",
+      "feeds"
+    ],
+    "answer_index": 2,
+    "hint": "Sau 'time to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 122,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] the baby.",
+    "options": [
+      "feeded",
+      "feed",
+      "feeds",
+      "fed"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 123,
+    "topic": "fill_in_the_blank_v3",
+    "question": "Have you [BLANK] the cats?",
+    "options": [
+      "feeded",
+      "feed",
+      "feeds",
+      "fed"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là thì hiện tại hoàn thành (Have + V3)."
+  },
+  {
+    "id": 124,
+    "topic": "fill_in_the_blank_v1",
+    "question": "How do you [BLANK]?",
+    "options": [
+      "feel",
+      "feeled",
+      "felt",
+      "feels"
+    ],
+    "answer_index": 0,
+    "hint": "Câu hỏi hiện tại đơn (Do + V1)."
+  },
+  {
+    "id": 125,
+    "topic": "fill_in_the_blank_v2",
+    "question": "I [BLANK] sick yesterday.",
+    "options": [
+      "felt",
+      "feels",
+      "feeled",
+      "feel"
+    ],
+    "answer_index": 0,
+    "hint": "'yesterday' (quá khứ)."
+  },
+  {
+    "id": 126,
+    "topic": "fill_in_the_blank_v3",
+    "question": "I have [BLANK] this way before.",
+    "options": [
+      "feeled",
+      "feel",
+      "felt",
+      "feels"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là thì hiện tại hoàn thành (have + V3)."
+  },
+  {
+    "id": 127,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Don't [BLANK] with your brother.",
+    "options": [
+      "fighted",
+      "fight",
+      "fights",
+      "fought"
+    ],
+    "answer_index": 1,
+    "hint": "Sau 'Don't' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 128,
+    "topic": "fill_in_the_blank_v2",
+    "question": "They [BLANK] bravely.",
+    "options": [
+      "fighted",
+      "fight",
+      "fights",
+      "fought"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 129,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He has [BLANK] for his country.",
+    "options": [
+      "fought",
+      "fight",
+      "fighted",
+      "fights"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 130,
+    "topic": "fill_in_the_blank_v1",
+    "question": "I can't [BLANK] my keys.",
+    "options": [
+      "find",
+      "finds",
+      "finded",
+      "found"
+    ],
+    "answer_index": 0,
+    "hint": "Sau 'can't' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 131,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] a gold coin.",
+    "options": [
+      "finded",
+      "finds",
+      "found",
+      "find"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 132,
+    "topic": "fill_in_the_blank_v3",
+    "question": "Have you [BLANK] what you were looking for?",
+    "options": [
+      "find",
+      "finded",
+      "finds",
+      "found"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là thì hiện tại hoàn thành (Have + V3)."
+  },
+  {
+    "id": 133,
+    "topic": "fill_in_the_blank_v1",
+    "question": "The prisoner will try to [BLANK].",
+    "options": [
+      "flee",
+      "fled",
+      "fleeed",
+      "flees"
+    ],
+    "answer_index": 0,
+    "hint": "Sau 'try to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 134,
+    "topic": "fill_in_the_blank_v2",
+    "question": "The family [BLANK] the country.",
+    "options": [
+      "flee",
+      "fleeed",
+      "flees",
+      "fled"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 135,
+    "topic": "fill_in_the_blank_v3",
+    "question": "They have [BLANK] to safety.",
+    "options": [
+      "fleeed",
+      "flee",
+      "fled",
+      "flees"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là thì hiện tại hoàn thành (have + V3)."
+  },
+  {
+    "id": 136,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Don't [BLANK] your clothes on the floor.",
+    "options": [
+      "flings",
+      "fling",
+      "flinged",
+      "flung"
+    ],
+    "answer_index": 1,
+    "hint": "Sau 'Don't' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 137,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] the door open.",
+    "options": [
+      "flung",
+      "flinged",
+      "flings",
+      "fling"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 138,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The book was [BLANK] aside.",
+    "options": [
+      "flinged",
+      "fling",
+      "flung",
+      "flings"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là câu bị động (was + V3)."
+  },
+  {
+    "id": 139,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Birds can [BLANK] high.",
+    "options": [
+      "flew",
+      "flyed",
+      "flown",
+      "fly"
+    ],
+    "answer_index": 3,
+    "hint": "Sau 'can' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 140,
+    "topic": "fill_in_the_blank_v2",
+    "question": "The plane [BLANK] over the mountains.",
+    "options": [
+      "fly",
+      "flown",
+      "flyed",
+      "flew"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 141,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He has [BLANK] all over the world.",
+    "options": [
+      "flown",
+      "fly",
+      "flew",
+      "flyed"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 142,
+    "topic": "fill_in_the_blank_v1",
+    "question": "I [BLANK] you to go.",
+    "options": [
+      "forbade",
+      "forbad",
+      "forbid",
+      "forbidden"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là câu hiện tại đơn (V1)."
+  },
+  {
+    "id": 143,
+    "topic": "fill_in_the_blank_v2",
+    "question": "His father [BLANK] him to smoke.",
+    "options": [
+      "forbid",
+      "forbidden",
+      "forbad",
+      "forbade"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 144,
+    "topic": "fill_in_the_blank_v3",
+    "question": "Smoking is [BLANK] here.",
+    "options": [
+      "forbad",
+      "forbade",
+      "forbidden",
+      "forbid"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là câu bị động (is + V3)."
+  },
+  {
+    "id": 145,
+    "topic": "fill_in_the_blank_v1",
+    "question": "They [BLANK] rain for tomorrow.",
+    "options": [
+      "forecasts",
+      "forecasted",
+      "forecast",
+      "forecasting"
+    ],
+    "answer_index": 2,
+    "hint": "V1, V2, V3 của 'forecast' viết giống nhau."
+  },
+  {
+    "id": 146,
+    "topic": "fill_in_the_blank_v2",
+    "question": "The expert [BLANK] a rise in prices.",
+    "options": [
+      "forecasts",
+      "forecasted",
+      "forecast",
+      "forecasting"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 147,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The weather was [BLANK] correctly.",
+    "options": [
+      "forecast",
+      "forecasts",
+      "forecasted",
+      "forecasting"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là câu bị động (was + V3)."
+  },
+  {
+    "id": 148,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Don't [BLANK] to call me.",
+    "options": [
+      "forgot",
+      "forgeted",
+      "forgotten",
+      "forget"
+    ],
+    "answer_index": 3,
+    "hint": "Sau 'Don't' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 149,
+    "topic": "fill_in_the_blank_v2",
+    "question": "I [BLANK] his name.",
+    "options": [
+      "forget",
+      "forgeted",
+      "forgotten",
+      "forgot"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 150,
+    "topic": "fill_in_the_blank_v3",
+    "question": "I have [BLANK] my password.",
+    "options": [
+      "forgot",
+      "forget",
+      "forgotten",
+      "forgeted"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là thì hiện tại hoàn thành (have + V3)."
+  },
+  {
+    "id": 151,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Please [BLANK] me.",
+    "options": [
+      "forgive",
+      "forgave",
+      "forgiven",
+      "forgiveed"
+    ],
+    "answer_index": 0,
+    "hint": "Câu mệnh lệnh/yêu cầu dùng V1."
+  },
+  {
+    "id": 152,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] him for his mistake.",
+    "options": [
+      "forgave",
+      "forgive",
+      "forgiveed",
+      "forgiven"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 153,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He has been [BLANK].",
+    "options": [
+      "forgiven",
+      "forgiveed",
+      "forgave",
+      "forgive"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là câu bị động (been + V3)."
+  },
+  {
+    "id": 154,
+    "topic": "fill_in_the_blank_v1",
+    "question": "The water will [BLANK] at 0°C.",
+    "options": [
+      "freeze",
+      "froze",
+      "frozen",
+      "freezeed"
+    ],
+    "answer_index": 0,
+    "hint": "Sau 'will' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 155,
+    "topic": "fill_in_the_blank_v2",
+    "question": "The lake [BLANK] solid.",
+    "options": [
+      "frozen",
+      "froze",
+      "freezeed",
+      "freeze"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 156,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The food is [BLANK].",
+    "options": [
+      "frozen",
+      "freezeed",
+      "freeze",
+      "froze"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là câu bị động / V3 làm tính từ (is + V3)."
+  },
+  {
+    "id": 157,
+    "topic": "fill_in_the_blank_v1",
+    "question": "You need to [BLANK] permission.",
+    "options": [
+      "gotten",
+      "geted",
+      "get",
+      "got"
+    ],
+    "answer_index": 2,
+    "hint": "Sau 'need to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 158,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] a new job.",
+    "options": [
+      "geted",
+      "gotten",
+      "got",
+      "get"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 159,
+    "topic": "fill_in_the_blank_v3",
+    "question": "Have you [BLANK] the email?",
+    "options": [
+      "geted",
+      "got",
+      "gotten",
+      "get"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là thì hiện tại hoàn thành (Have + V3)."
+  },
+  {
+    "id": 160,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Please [BLANK] me the book.",
+    "options": [
+      "give",
+      "given",
+      "giveed",
+      "gave"
+    ],
+    "answer_index": 0,
+    "hint": "Câu mệnh lệnh/yêu cầu dùng V1."
+  },
+  {
+    "id": 161,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] her a gift.",
+    "options": [
+      "give",
+      "gave",
+      "given",
+      "giveed"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 162,
+    "topic": "fill_in_the_blank_v3",
+    "question": "I have [BLANK] him the keys.",
+    "options": [
+      "giveed",
+      "gave",
+      "give",
+      "given"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là thì hiện tại hoàn thành (have + V3)."
+  },
+  {
+    "id": 163,
+    "topic": "fill_in_the_blank_v1",
+    "question": "We must [BLANK] now.",
+    "options": [
+      "went",
+      "gone",
+      "goed",
+      "go"
+    ],
+    "answer_index": 3,
+    "hint": "Sau 'must' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 164,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] to the store.",
+    "options": [
+      "goed",
+      "went",
+      "gone",
+      "go"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 165,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He has [BLANK] home.",
+    "options": [
+      "went",
+      "gone",
+      "go",
+      "goed"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 166,
+    "topic": "fill_in_the_blank_v1",
+    "question": "We need to [BLANK] the coffee beans.",
+    "options": [
+      "grind",
+      "grinds",
+      "ground",
+      "grinded"
+    ],
+    "answer_index": 0,
+    "hint": "Sau 'need to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 167,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] the pepper.",
+    "options": [
+      "grinded",
+      "grinds",
+      "ground",
+      "grind"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 168,
+    "topic": "fill_in_the_blank_v3",
+    "question": "The wheat is [BLANK] into flour.",
+    "options": [
+      "grinded",
+      "grinds",
+      "grind",
+      "ground"
+    ],
+    "answer_index": 3,
+    "hint": "Đây là câu bị động (is + V3)."
+  },
+  {
+    "id": 169,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Plants need light to [BLANK].",
+    "options": [
+      "grown",
+      "grow",
+      "growed",
+      "grew"
+    ],
+    "answer_index": 1,
+    "hint": "Sau 'need to' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 170,
+    "topic": "fill_in_the_blank_v2",
+    "question": "He [BLANK] tomatoes in his garden.",
+    "options": [
+      "grew",
+      "grown",
+      "growed",
+      "grow"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 171,
+    "topic": "fill_in_the_blank_v3",
+    "question": "You have [BLANK] so tall.",
+    "options": [
+      "grow",
+      "grown",
+      "grew",
+      "growed"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là thì hiện tại hoàn thành (have + V3)."
+  },
+  {
+    "id": 172,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Please [BLANK] your coat here.",
+    "options": [
+      "hangs",
+      "hung",
+      "hang",
+      "hanged"
+    ],
+    "answer_index": 2,
+    "hint": "Câu mệnh lệnh/yêu cầu dùng V1."
+  },
+  {
+    "id": 173,
+    "topic": "fill_in_the_blank_v2",
+    "question": "She [BLANK] the painting on the wall.",
+    "options": [
+      "hang",
+      "hung",
+      "hangs",
+      "hanged"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 174,
+    "topic": "fill_in_the_blank_v3",
+    "question": "He has [BLANK] up the phone.",
+    "options": [
+      "hangs",
+      "hang",
+      "hung",
+      "hanged"
+    ],
+    "answer_index": 2,
+    "hint": "Đây là thì hiện tại hoàn thành (has + V3)."
+  },
+  {
+    "id": 175,
+    "topic": "fill_in_the_blank_v1",
+    "question": "I [BLANK] a cat.",
+    "options": [
+      "have",
+      "haves",
+      "had",
+      "haveed"
+    ],
+    "answer_index": 0,
+    "hint": "Đây là câu hiện tại đơn (V1)."
+  },
+  {
+    "id": 176,
+    "topic": "fill_in_the_blank_v2",
+    "question": "We [BLANK] a good time yesterday.",
+    "options": [
+      "have",
+      "haveed",
+      "had",
+      "haves"
+    ],
+    "answer_index": 2,
+    "hint": "'yesterday' (quá khứ)."
+  },
+  {
+    "id": 177,
+    "topic": "fill_in_the_blank_v3",
+    "question": "I have [BLANK] enough.",
+    "options": [
+      "haveed",
+      "had",
+      "haves",
+      "have"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là thì hiện tại hoàn thành (have + V3)."
+  },
+  {
+    "id": 178,
+    "topic": "fill_in_the_blank_v1",
+    "question": "Can you [BLANK] that noise?",
+    "options": [
+      "hear",
+      "heared",
+      "hears",
+      "heard"
+    ],
+    "answer_index": 0,
+    "hint": "Sau 'Can' là động từ nguyên mẫu (V1)."
+  },
+  {
+    "id": 179,
+    "topic": "fill_in_the_blank_v2",
+    "question": "I [BLANK] a strange sound.",
+    "options": [
+      "hear",
+      "heard",
+      "heared",
+      "hears"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là hành động trong quá khứ."
+  },
+  {
+    "id": 180,
+    "topic": "fill_in_the_blank_v3",
+    "question": "Have you [BLANK] the news?",
+    "options": [
+      "hear",
+      "heard",
+      "heared",
+      "hears"
+    ],
+    "answer_index": 1,
+    "hint": "Đây là thì hiện tại hoàn thành (Have + V3)."
+  }
+]
